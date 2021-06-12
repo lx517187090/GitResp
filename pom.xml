@@ -27,7 +27,7 @@
             <version>4.1.35.Final</version>
         </dependency>
 
-        <!-- protostuff依赖包 dd begin -->
+        <!-- protostuff依赖包 ddddddddddd begin -->
         <dependency>
             <groupId>com.dyuproject.protostuff</groupId>
             <artifactId>protostuff-api</artifactId>
